@@ -1,0 +1,10 @@
+CursorColour=128,255,0
+Transparency=glass
+OpaqueWhenFocused=no
+CursorType=block
+ThemeFile=xterm
+FontHeight=12
+Columns=158
+Rows=45
+BackgroundColour=0,0,0
+Window=max

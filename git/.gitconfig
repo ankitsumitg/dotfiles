@@ -1,0 +1,15 @@
+[core]
+	editor = \"C:\\Program Files\\Microsoft VS Code\\Code.exe\" --wait
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+[user]
+	name = Ankit Gupta
+	email = ankitsumitg@gmail.com
+	signingKey = 86E22B6D73C1B324
+[commit]
+	gpgsign = true
+[tag]
+	gpgsign = true
