@@ -122,3 +122,5 @@ ls -l
 printf 'abd'
 printf 'abd\nfdsf'
 ll
+sh -c "$(curl -fsSL https://starship.rs/install.sh)"
+mkdir -p ~/.config && touch ~/.config/starship.toml
