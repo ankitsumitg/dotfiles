@@ -14,5 +14,5 @@ My Dot Files. 🔴🟢🔵
     * [tokei](https://github.com/XAMPPRocky/tokei)
     * [procs](https://github.com/dalance/procs)
 
-Location: `C:\Program Files\Git\usr\local\bin`
+Location (Personal Use): `C:\Program Files\Git\usr\local\bin`
 ***
