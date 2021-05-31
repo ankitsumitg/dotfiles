@@ -98,12 +98,6 @@
                 "useAcrylic": true
             },
             {
-                "cursorShape": "filledBox",
-                "fontFace": "Fira Code",
-                "fontSize": 13,
-                "useAcrylic": true
-            },
-            {
                 "acrylicOpacity": 0.5,
                 "backgroundImage": null,
                 "backgroundImageOpacity": 0.10000000000000001,
