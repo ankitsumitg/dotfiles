@@ -18,7 +18,10 @@ My Dot Files. 🔴🟢🔵
         * [procs](https://github.com/dalance/procs)
 
     - NPM
-        * [tldr](https://tldr.sh/) - npm
+        * [tldr](https://tldr.sh/)
+
+    - Windows
+        * [winget](https://github.com/microsoft/winget-cli)
 
 Location (Personal Use): `C:\Program Files\Git\usr\local\bin`
 ***
