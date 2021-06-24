@@ -1,5 +1,5 @@
 CursorColour=128,255,0
-Transparency=glass
+Transparency=high
 OpaqueWhenFocused=no
 CursorType=block
 ThemeFile=xterm
@@ -8,3 +8,8 @@ Columns=158
 Rows=45
 BackgroundColour=0,0,0
 Window=max
+Font=Fira Code
+EmojiPlacement=stretch
+Locale=en_US
+Charset=UTF-8
+AllowBlinking=yes

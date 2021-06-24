@@ -26,12 +26,9 @@
     "python.autoComplete.addBrackets": true,
     "code-runner.clearPreviousOutput": true,
     "python.analysis.completeFunctionParens": true,
-    "workbench.editorAssociations": [
-        {
-            "viewType": "jupyter.notebook.ipynb",
-            "filenamePattern": "*.ipynb"
-        }
-    ],
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
     "jupyter.interactiveWindowMode": "perFile",
     "git.autofetch": true,
     "git.confirmSync": false,

@@ -124,3 +124,49 @@ printf 'abd\nfdsf'
 ll
 sh -c "$(curl -fsSL https://starship.rs/install.sh)"
 mkdir -p ~/.config && touch ~/.config/starship.toml
+ls
+cd GIT/MYKI/
+ll
+history
+echo hi
+history
+history
+history
+history -1
+tail -1 history
+history | tail -1
+history | tail -2
+history | tail -2
+history | tail -2
+bat ~/.bash_history 
+history 
+starship update
+starship
+starship completions
+sh -c "$(curl -fsSL https://starship.rs/install.sh)"
+exit
+sh -c "$(curl -fsSL https://starship.rs/install.sh)"
+ls
+ll
+ll
+ll
+ll
+ll
+ll
+ls
+ls
+clear
+clear
+ll
+ll
+ll
+ll
+ll
+echo test
+ls
+ll
+ll
+ls
+clear
+cat ~/.bash_history 
+ls
