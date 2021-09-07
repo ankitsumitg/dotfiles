@@ -177,3 +177,21 @@ git add .
 git status
 git commit -m 'Update'
 git push
+py run_everyday.py 
+py run_everyday.py 
+git status
+git commit -m 'Little Update'
+git add .
+git commit -m 'Little Update'
+git push
+help
+history
+exit
+history
+help
+sdfdfsdf
+history
+exit
+ls -lrth
+exit
+apt-get install python2-pip

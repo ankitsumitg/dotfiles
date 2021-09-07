@@ -27,7 +27,7 @@
     "code-runner.clearPreviousOutput": true,
     "python.analysis.completeFunctionParens": true,
     "workbench.editorAssociations": {
-        "*.ipynb": "jupyter.notebook.ipynb"
+        "*.ipynb": "jupyter-notebook"
     },
     "jupyter.interactiveWindowMode": "perFile",
     "git.autofetch": true,
@@ -133,5 +133,10 @@
     },
     "git.enableCommitSigning": true,
     "editor.fontFamily": "Fira Code,Cascadia Code PL,Monoid",
-    "editor.fontLigatures": true
+    "editor.fontLigatures": true,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "editor.bracketPairColorization.enabled": true
 }
