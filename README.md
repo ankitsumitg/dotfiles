@@ -47,4 +47,5 @@
     - Usage: `dict ls`
 ---
 Location (Personal Use): `C:\Program Files\Git\usr\local\bin`
+For ZSH: Using Oh-My-Zsh with plugins and theme powerlevel10k
 ***
