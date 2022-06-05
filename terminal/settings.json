@@ -100,12 +100,13 @@
             {
                 "backgroundImage": null,
                 "backgroundImageOpacity": 0.10000000000000001,
+                "bellStyle": "window",
                 "commandline": "C:\\Program Files\\Git\\bin\\bash.exe --login",
                 "cursorShape": "filledBox",
                 "experimental.retroTerminalEffect": false,
                 "font": 
                 {
-                    "face": "Fira Code",
+                    "face": "MesloLGS NF",
                     "size": 12
                 },
                 "guid": "{cb028d04-2120-5a72-876a-5e8b435eb916}",
