@@ -5,6 +5,7 @@
 * Windows Terminal
 * VSCode
 * Note Pad++
+* ZSH
 ***
 * Others cmd line tools I use.
 
