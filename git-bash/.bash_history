@@ -195,3 +195,17 @@ exit
 ls -lrth
 exit
 apt-get install python2-pip
+git log
+ls
+ls
+mv fg-01.bin.aspx fg-01.bin
+mv fg-02.bin.aspx fg-02.bin
+mv fg-03.bin.aspx fg-03.bin
+mv fg-04.bin.aspx fg-04.bin
+mv fg-05.bin.aspx fg-05.bin
+mv fg-06.bin.aspx fg-06.bin
+ll
+mv fg-optional-bonus-soundtrack.bin.aspx fg-optional-bonus-soundtrack.bin
+mv Verify\ BIN\ files\ before\ installation.bat.aspx  Verify\ BIN\ files\ before\ installation.bat
+ll
+mv setup.exe.aspx setup.exe

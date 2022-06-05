@@ -35,7 +35,6 @@
     "rust-client.channel": "null",
     "liveServer.settings.donotShowInfoMsg": true,
     "tabnine.experimentalAutoImports": true,
-    "workbench.productIconTheme": "fluent-icons",
     "discord.detailsIdling": "Be Right Back 👀",
     "code-runner.executorMap": {
 
@@ -138,5 +137,17 @@
         "default": "right",
         "jupyter-notebook": "left"
     },
-    "editor.bracketPairColorization.enabled": true
+    "editor.bracketPairColorization.enabled": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": false
+    },
+    "editor.guides.bracketPairs": true,
+    "workbench.productIconTheme": "fluent-icons"
 }
