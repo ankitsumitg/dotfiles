@@ -100,7 +100,7 @@
             {
                 "backgroundImage": null,
                 "backgroundImageOpacity": 0.10000000000000001,
-                "bellStyle": "window",
+                "bellStyle": "taskbar",
                 "commandline": "C:\\Program Files\\Git\\bin\\bash.exe --login",
                 "cursorShape": "filledBox",
                 "experimental.retroTerminalEffect": false,

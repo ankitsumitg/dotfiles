@@ -131,7 +131,7 @@
         "**/.factorypath": true
     },
     "git.enableCommitSigning": true,
-    "editor.fontFamily": "Fira Code,Cascadia Code PL,Monoid",
+    "editor.fontFamily": "MesloLGS NF,Fira Code,Cascadia Code PL,Monoid",
     "editor.fontLigatures": true,
     "notebook.cellToolbarLocation": {
         "default": "right",
