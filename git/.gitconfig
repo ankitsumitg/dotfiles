@@ -14,5 +14,4 @@
 [tag]
 	gpgsign = true
 [credential]
-	helper = 
 	helper = D:/PortableGit/git-credential-manager/git-credential-manager-core.exe
