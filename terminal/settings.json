@@ -31,7 +31,7 @@
     ],
     "copyFormatting": "none",
     "copyOnSelect": true,
-    "defaultProfile": "{cb028d04-2120-5a72-876a-5e8b435eb916}",
+    "defaultProfile": "{2c4de342-38b7-51cf-b940-2309a097f518}",
     "experimental.rendering.software": false,
     "initialCols": 150,
     "launchMode": "maximized",
@@ -68,12 +68,13 @@
             {
                 "antialiasingMode": "grayscale",
                 "backgroundImage": null,
+                "bellStyle": "taskbar",
                 "colorScheme": "Campbell",
                 "cursorShape": "filledBox",
                 "experimental.retroTerminalEffect": false,
                 "font": 
                 {
-                    "face": "Fira Code",
+                    "face": "MesloLGS Nerd Font",
                     "size": 12,
                     "weight": "normal"
                 },
@@ -81,6 +82,7 @@
                 "hidden": false,
                 "name": "Ubuntu",
                 "source": "Windows.Terminal.Wsl",
+                "startingDirectory": null,
                 "tabTitle": null,
                 "useAcrylic": true
             },
@@ -112,6 +114,26 @@
                 "guid": "{cb028d04-2120-5a72-876a-5e8b435eb916}",
                 "icon": "C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico",
                 "name": "GIT Bash",
+                "opacity": 50,
+                "startingDirectory": "D:\\",
+                "useAcrylic": true
+            },
+            {
+                "backgroundImage": null,
+                "backgroundImageOpacity": 0.10000000000000001,
+                "bellStyle": "taskbar",
+                "commandline": "D:\\PortableGit\\bin\\bash.exe --login",
+                "cursorShape": "filledBox",
+                "experimental.retroTerminalEffect": false,
+                "font": 
+                {
+                    "face": "MesloLGS Nerd Font",
+                    "size": 12
+                },
+                "guid": "{95845ebe-8e0c-45c0-9f08-16cd83e57bdf}",
+                "hidden": false,
+                "icon": "D:\\PortableGit\\PortableHome\\fish.png",
+                "name": "FISH",
                 "opacity": 50,
                 "startingDirectory": "D:\\",
                 "useAcrylic": true
